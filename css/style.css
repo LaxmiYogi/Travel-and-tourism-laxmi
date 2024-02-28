@@ -1,0 +1,119 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    
+}
+#heading{
+    width:100%;
+    height:400px;
+    background-color:#003B95;
+}
+.d-flex{
+    position:relative;
+    right:46px;
+
+    
+}
+#heading ul li{
+   color:white;
+    margin:23px;
+    list-style-type:none;
+    /* padding-top:53px; */
+    
+}
+.box{
+    position:relative;
+    right:177px;
+}
+.box h2, img, button{
+    margin:30px;
+   color:white;
+}
+#para{
+    margin-left:102px;
+}
+#button{
+    padding:1px 22px 2px 16px;
+}
+#heading ul li:hover{
+    border:2px solid white;;
+    border-radius:50px 50px 50px 50px;
+}
+#heading ul li:first-child{
+    /* border:1px solid white; */
+    border-radius:50px 50px 50px 50px;
+}
+
+
+input{
+    border:none;
+    padding:27px 131px 0px 25px;
+   
+    margin-top:10px;
+    margin-bottom:5px;
+}
+#border{
+    background-color:yellow;
+    
+    width:71%;
+    height:66px;
+    margin:auto;
+    position:relative;
+    bottom:29px;
+}
+#box2{
+    padding:29px 79px 1px 20px;
+    position:relative;
+    right:16px;
+}
+#box3{
+   
+    padding:27px 131px 0px 25px;
+   
+    margin-top:10px;
+    margin-bottom:5px;
+    position:relative;
+    left:47px;
+
+}
+.btn{
+    position:relative;
+    bottom:19px;
+    padding:24px 81px 1px 1px;
+}
+#bordersu{
+    border:1px solid red;
+    height:205px;
+    margin-left:0px;
+}
+#getdiscount{
+    border:1px solid silver;
+    width:75%;
+    height:200px;
+    position:relative;
+    bottom:186px;
+    left:145px;
+}
+#findapartment{
+    border:1px solid silver;
+    width:75%;
+    height:250px;
+    position:relative;
+    bottom:151px;
+    left:153px;
+}
+#footing{
+     width:100%;
+    height:300px;
+    /* background-color:silver;  */
+    margin-bottom:187px; 
+    position:relative; 
+    bottom:63px;
+}
+#footing ul{
+    list-style-type:none;
+}
+#footing ul li{
+    margin-left:0px;
+}
